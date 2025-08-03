@@ -13,8 +13,6 @@ A Laravel package for tracking user behavior and website analytics.
 - 📱 Device & browser detection
 - 📈 Popular pages & exit pages
 - 🔗 Referrer tracking
-- 🤖 Bot filtering
-- 🧹 Auto cleanup
 
 ## Installation
 
