@@ -1,0 +1,96 @@
+# Dependencies
+/vendor/
+
+# Composer
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# PHPUnit
+.phpunit.result.cache
+/tests/coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+/storage/
+/bootstrap/cache/
+
+## 3. Pastikan .gitignore sudah benar
+
+File <mcfile name=".gitignore" path="/Users/dewakoding/DATA/Code/Laravel/libraries/jejak/.gitignore"></mcfile> sudah ada dan berisi:
+```
+# Dependencies
+/vendor/
+
+# Composer
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# PHPUnit
+.phpunit.result.cache
+/tests/coverage/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+/storage/
+/bootstrap/cache/
+```
