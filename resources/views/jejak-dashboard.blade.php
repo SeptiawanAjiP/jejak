@@ -3,7 +3,7 @@
         <!-- Header -->
         <div class="mb-8">
             <div>
-                <h1 class="text-2xl md:text-3xl font-bold tracking-tight">Dewakoding Jejak</h1>
+                <h1 class="text-2xl md:text-3xl font-bold tracking-tight">Jejak</h1>
                 <p class="text-sm md:text-base text-muted-foreground mt-1">Monitor website traffic and user behavior</p>
             </div>
         </div>
