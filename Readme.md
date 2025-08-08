@@ -17,7 +17,6 @@ A Laravel package for tracking user behavior and website analytics.
 ## Installation
 
 ```bash
-composer require dewakoding/jejak
 php artisan vendor:publish --tag=jejak-migrations
 php artisan vendor:publish --tag=jejak-config
 php artisan migrate
